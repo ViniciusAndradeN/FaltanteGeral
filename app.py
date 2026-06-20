@@ -3,7 +3,7 @@ import pandas as pd
 
 app = Flask(__name__)
 
-CAMINHO = r"C:\Users\vinicius.andrade\OneDrive - JSL SA\FALTANTES DIÁRIOS\Faltantes JSL - 2026.xlsx"
+CAMINHO = r"https://juliosimoes-my.sharepoint.com/:x:/g/personal/vinicius_andrade_jsl_com_br/IQDi7Z5w-gcTT4lK-IhbPYVlAUrKrEe0-rIzw3pf1vH_gcE?e=xOZt93"
 
 def tratar_data(df):
 
